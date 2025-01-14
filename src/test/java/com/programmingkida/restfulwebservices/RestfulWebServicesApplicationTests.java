@@ -1,4 +1,4 @@
-package com.programmingkida.restfulwebservices;
+package com.programmingkida.restfulwebservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
